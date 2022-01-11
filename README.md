@@ -26,10 +26,10 @@
 <p align="left">
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>  
-    <a href="http://www.cplusplus.org/" target="_blank"> <img src=http://www.cplusplus.org/assets/images/b57c66566dd5286a036435b570d1740f.png/> </a>
+    <a href="http://www.cplusplus.org/" target="_blank"> <img src="http://www.cplusplus.org/assets/images/b57c66566dd5286a036435b570d1740f.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src=https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj"/> </a> 
     <a href="https://developer.android.com/studio?authuser=2" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>     
 </p>
 
@@ -53,7 +53,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/tanmayyadav2323/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Drontitan">
 </a>
 <a href="https://github.com/tanmayyadav2323?tab=followers"><img src="https://img.shields.io/github/followers/tanmayyadav2323?label=Followers&style=social" alt="GitHub Badge"></a>
