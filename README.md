@@ -48,7 +48,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/tanmay-yadav-478a2a222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Tammay491010031"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/Tammay49101003"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
