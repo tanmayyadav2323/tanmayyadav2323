@@ -54,7 +54,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/tanmayyadav2323/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Drontitan">
+    <img src="https://komarev.com/ghpvc/?username=tanmayyadav2323">
 </a>
 <a href="https://github.com/tanmayyadav2323?tab=followers"><img src="https://img.shields.io/github/followers/tanmayyadav2323?label=Followers&style=social" alt="GitHub Badge"></a>
 
