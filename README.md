@@ -10,13 +10,13 @@
 
 - 👨‍💻 I’m currently contributing in **Flutter Organisations.**
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Blockchain.**
+- 🌱 Sovled 300 questions on GFG and Leetcode.
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/tanmayyadav2323?tab=repositories).**
 
-- 📫 How to reach me **tanmayyadav2323@gmail.com**.
+- 📫 How to reach me **yadavtanmay852@gmail.com**.
 
 - ⚡ Fun fact **I have interest in many sports.**
 
