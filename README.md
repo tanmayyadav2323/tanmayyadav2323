@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Tanmay</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,This is Tanmay</h1>
 <h3 align="center">I'm a Flutter based Cross-Platform Developer from India and currently a CSE undergrad. </h3>
 
 
