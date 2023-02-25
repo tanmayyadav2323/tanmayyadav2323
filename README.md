@@ -10,7 +10,11 @@
 
 - 👨‍💻 I’m currently contributing in **Flutter Organisations.**
 
-- 🌱 Sovled 300 questions on GFG and Leetcode.
+- 🌱 Sovled 400+ questions on GFG and Leetcode.
+
+-    **[Leetcode](https://leetcode.com/yadavtanmay852/).**
+
+-    **[Gfg](https://auth.geeksforgeeks.org/user/tanmayya60oq/).**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
